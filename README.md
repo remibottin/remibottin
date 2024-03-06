@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">My name is Rémi Bottin, i'm a Full Stack Developer Junior.</h3>
+<h1 align="center">Hi there 👋 , my name is Rémi Bottin</h1>
+<h3 align="center">I'm a Full Stack Developer Junior</h3>
 
 - 👨‍💻 I’m currently learning **the Career path Full-Stack Engineer from Codecademy**
 
-- 📫 How to reach me **remibottin12@gmail.com**
+- 📫 Hit me up in a Mail => **remibottin12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
